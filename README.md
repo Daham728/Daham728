@@ -10,7 +10,7 @@
 <a href="mailto:karunathilakadaham@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Daham728">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -18,7 +18,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Building+real-world+software+solutions+%F0%9F%9A%80;Full+Stack+Developer+%7C+AI+%26+IoT+Enthusiast+%F0%9F%A4%96;Turning+ideas+into+scalable+products+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Daham728&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -204,16 +204,16 @@ A complete management system for handling students, courses, and academic record
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daham728&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daham728&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daham728&theme=tokyonight" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Daham728&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
-> 💡 Replace `YOUR_USERNAME` above with your actual GitHub username to activate these stats.
+> 💡 Replace `Daham728` above with your actual GitHub username to activate these stats.
 
 ---
 
@@ -221,7 +221,7 @@ A complete management system for handling students, courses, and academic record
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Daham728/Daham728/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
 </div>
 
