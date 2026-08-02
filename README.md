@@ -207,25 +207,21 @@ A complete management system for handling students, courses, and academic record
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daham728&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daham728&layout=compact&theme=tokyonight"/>
 
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daham728&theme=tokyonight" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Daham728&theme=tokyo-night&hide_border=true" width="100%"/>
-
 </div>
-
-> 💡 Replace `Daham728` above with your actual GitHub username to activate these stats.
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Daham728/Daham728/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Daham728/Daham728/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
 </div>
-
-> 💡 This animated snake requires a one-time GitHub Actions setup — see [Platane/snk](https://github.com/Platane/snk) for the 2-minute setup guide.
 
 ---
 
